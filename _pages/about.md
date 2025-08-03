@@ -23,7 +23,10 @@ Education
 
 Publications
 ------
-
+- <strong>“Comparison of associations suggests mainly distinct pools of genetic risk factors contribute to cisplatin-induced hearing loss and hearing difficulty in the general population”</strong>  
+<em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Wheeler HE, Zhang X, Frisina RD, Travis LB, Dolan ME.  
+2025\. Front. Pharmacol. doi: 10.3389/fphar.2025.1577072 [39543288](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1577072/abstract) [Accepted]
+  
 - <strong>“Comparison of GWAS results between de novo tinnitus and cancer treatment-related tinnitus suggests distinctive roles for genetic risk factors”</strong>  
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Wheeler HE, Zhang X, Frisina RD, Travis LB, Dolan ME.  
 2024\. Sci Rep. PMID: [39543288](https://pubmed.ncbi.nlm.nih.gov/39543288)  
