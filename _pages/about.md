@@ -65,7 +65,7 @@ Zeng J, <em><strong><span style="background-color: lightgray;">Shahbazi M</span>
 
 - <strong>“Efficient recombinase-mediated cassette exchange at the AAVS1 locus in human embryonic stem cells using baculoviral vectors”</strong>  
 Ramachandra CJ, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Kwang TW, Choudhury Y, Bak XY, Yang J, Wang S.  
-2011\. Nucleic AcidsRes. PMID: [21685448](https://pubmed.ncbi.nlm.nih.gov/21685448)
+2011\. Nucleic Acids Res. PMID: [21685448](https://pubmed.ncbi.nlm.nih.gov/21685448)
 
 Other
 ------
