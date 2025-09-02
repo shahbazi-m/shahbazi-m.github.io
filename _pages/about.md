@@ -19,7 +19,7 @@ Experience
 Education
 ------
 - <strong>National University of Singapore (NUS)</strong>   
-&nbsp;- Doctor of Philosophy
+&nbsp;- Doctor of Philosophy (Ph.D.)
 
 Publications
 ------
