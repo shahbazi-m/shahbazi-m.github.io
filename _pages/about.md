@@ -70,7 +70,7 @@ Zeng J, <em><strong><span style="background-color: lightgray;">Shahbazi M</span>
 Ramachandra CJ, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Kwang TW, Choudhury Y, Bak XY, Yang J, Wang S.  
 2011\. Nucleic Acids Res. PMID: [21685448](https://pubmed.ncbi.nlm.nih.gov/21685448)
 
-Other
+Other contributions
 ------
 - <strong>“OSDR Chats with Dr Shahbazi on Arabidopsis Root Tips”</strong>  
 2024\. [[Link](https://youtu.be/Xu91Cgnnc9A) to the interview]
