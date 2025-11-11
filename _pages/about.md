@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ------
-I am a biologist interested in understanding the cellular and molecular mechanisms underlying human diseases and the responses of living organisms to their environment. My expertise primarily lies at the intersection of cell biology and bioinformatics, which I have applied in the context of stem cell biology, cancer biology, and space biology. During my postdoctoral research at Stanford University, my experience with RNA sequencing and protein array platforms made me realize the importance of investing in the expansion of my bioinformatics skills. Consequently, I accepted a bioinformatics-oriented staff position at the University of Chicago, where I successfully led four projects. In the coming years, I intend to expand my bioinformatics research and integrate these skills into the design and analysis of wet-lab experiments.
+I am a biologist interested in understanding the cellular and molecular mechanisms underlying human diseases and the responses of living organisms to their environment. My expertise primarily lies at the intersection of cell biology and bioinformatics, which I have applied in the context of stem cell biology, cancer biology, and space biology. During my postdoctoral research at Stanford University, my experience with RNA sequencing and protein array platforms made me realize the importance of investing in the expansion of my bioinformatics skills. Consequently, I accepted a bioinformatics-oriented staff position at the University of Chicago, where I successfully led four research projects. In the coming years, I intend to expand my bioinformatics research and integrate these skills into the design and analysis of wet-lab experiments.
 
 Experience
 ------
