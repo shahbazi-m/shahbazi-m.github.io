@@ -76,7 +76,7 @@ Other contributions
 2024\. [[Link](https://youtu.be/Xu91Cgnnc9A) to the interview]
 
 - <strong>“Sensory transcriptomics: Transcriptomics as versatile on-site sensors during spaceflight, Moon, and Mars missions”</strong>  
-<em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Barker R, Beheshti A, Sanders LM, Rutter LA. 2022. BPS Decadal Survey. [[Link](http://dx.doi.org/10.13140/RG.2.2.31984.43527/1) to the white paper]
+<em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Barker R, Beheshti A, Sanders LM, Rutter LA. 2022. BPS Decadal Survey. [[Link](https://www.researchgate.net/publication/375072024_Sensory_Transcriptomics_Transcriptomics_as_Versatile_On-site_Sensors_During_Spaceflight_Moon_and_Mars_Missions) to the white paper]
 
 - <strong>“Novel role of NANOG in smooth muscle cell phenotypic modulation during aortic dissections”</strong>  
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Fischbein M. 2017. J Thorac Cardiovasc Surg. PMID: [28826598](https://pubmed.ncbi.nlm.nih.gov/28826598) [Editorial]
