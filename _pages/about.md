@@ -38,7 +38,7 @@ Publications
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Rutter LA, Barker R.
 2024\. Plant Mol Biol. PMID: [38935184](https://pubmed.ncbi.nlm.nih.gov/38935184) [[Link](https://rdcu.be/dL8dl) to the full free article]
 
-- <strong>“Comprehensive association analysis of speech recognition thresholds after cisplatin‐based chemotherapy in survivors of adult‐onset cancer”</strong>
+- <strong>Comprehensive association analysis of speech recognition thresholds after cisplatin‐based chemotherapy in survivors of adult‐onset cancer</strong>
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Zhang X, Dinh PC, Sanchez VA, Trendowski MR, Shuey MM, Nguyen T; Regeneron Genetics Center; Feldman DR, Vaughn DJ, Fung C, Kollmannsberger C, Martin NE, Einhorn LH, Cox NJ, Frisina RD, Travis LB, Dolan ME.
 2023\. Cancer Med. PMID: [36097363](https://pubmed.ncbi.nlm.nih.gov/36097363)
 
@@ -46,11 +46,11 @@ Publications
 Zhang X, Trendowski MR, Wilkinson E, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Dinh PC, Shuey MM; Regeneron Genetics Center; Feldman DR, Hamilton RJ, Vaughn DJ, Fung C, Kollmannsberger C, Huddart R, Martin NE, Sanchez VA, Frisina RD, Einhorn LH, Cox NJ, Travis LB, Dolan ME.
 2022\. Cancer Med. PMID: [35322580](https://pubmed.ncbi.nlm.nih.gov/35322580)
 
-- <strong>“The role of insulin as a key regulator of seeding, proliferation, and mRNA transcription of human pluripotent stem cells”</strong>  
+- <strong>The role of insulin as a key regulator of seeding, proliferation, and mRNA transcription of human pluripotent stem cells</strong>
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Cundiff P, Zhou W, Lee P, Patel A, D’Souza SL, Abbasi F, Quertermous T, Knowles JW.  
 2019\. Stem Cell Res Ther. PMID: [31358052](https://pubmed.ncbi.nlm.nih.gov/31358052) 
 
-- <strong>“Analysis of transcriptional variability in a large human iPSC library reveals genetic and non-genetic determinants of heterogeneity”</strong>  
+- <strong>Analysis of transcriptional variability in a large human iPSC library reveals genetic and non-genetic determinants of heterogeneity</strong>  
 Carcamo-Orive I, Hoffman GE, Cundiff P, Beckmann ND, D’Souza SL, Knowles JW, Patel A, Papatsenko D, Abbasi F, Reaven GM, Whalen S, Lee P, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Henrion MYR, Zhu K, Wang S, Roussos P, Schadt EE, Pandey G, Chang R, Quertermous T, Lemischka I.  
 2016\. Cell Stem Cell. PMID: [28017796](https://pubmed.ncbi.nlm.nih.gov/28017796)
 
