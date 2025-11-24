@@ -81,9 +81,9 @@ Other contributions
 - <strong>“Novel role of NANOG in smooth muscle cell phenotypic modulation during aortic dissections”</strong>  
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Fischbein M. 2017. J Thorac Cardiovasc Surg. PMID: [28826598](https://pubmed.ncbi.nlm.nih.gov/28826598) [Editorial]
 
-Skill development
+Informatics skill development
 ------
-- <strong> DataCamp </strong>: Supervise machine learning in R: classification | Correlation and regression in R | Experimental design in R | Exploratory data analysis in R | Writing efficient code in R | Data visualization with ggplot2 | Intermediate Python | Biomedical Image Analysis in Python.
+- <strong> DataCamp </strong>: Supervise machine learning in R: classification /| Correlation and regression in R /| Experimental design in R /| Exploratory data analysis in R /| Writing efficient code in R /| Data visualization with ggplot2 /| Intermediate Python /| Biomedical Image Analysis in Python.
 
-- <strong> Coursera </strong>: The Data Scientist’s Toolbox | Astrobiology and the Search for Extraterrestrial Life | Genes and the Human Condition (From Behavior to Biotechnology)
+- <strong> Coursera </strong>: The Data Scientist’s Toolbox /| Genes and the Human Condition (From Behavior to Biotechnology)
 
