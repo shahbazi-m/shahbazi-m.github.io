@@ -58,15 +58,15 @@ Carcamo-Orive I, Hoffman GE, Cundiff P, Beckmann ND, D’Souza SL, Knowles JW, P
 Tay FC, Tan WK, Goh SL, Ramachandra CJ, Lau CH, Zhu H, Chen C, Du S, Phang RZ, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Fan W, Wang S.  
 2013\. J Gene Med. PMID [24105820](https://pubmed.ncbi.nlm.nih.gov/24105820)
 
-- <strong>“Inhibitory effects of neural stem cells derived from human embryonic stem cells on differentiation and function of monocyte-derived dendritic cells”</strong>  
-<em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Kwang TW, Purwanti YI, Fan W, Wang S.  
+- <strong>Inhibitory effects of neural stem cells derived from human embryonic stem cells on differentiation and function of monocyte-derived dendritic cells</strong>  
+<em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Kwang TW, Purwanti YI, Fan W, Wang S.
 2013\. J Neurol Sci. PMID [23664653](https://pubmed.ncbi.nlm.nih.gov/23664653)
 
-- <strong>“Enhancing immunostimulatory function of human embryonic stem cell-derived dendritic cells by CD1d overexpression”</strong>  
-Zeng J, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Wu C, Toh HC, Wang S.  
+- <strong>Enhancing immunostimulatory function of human embryonic stem cell-derived dendritic cells by CD1d overexpression</strong>  
+Zeng J, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Wu C, Toh HC, Wang S.
 2012\. J Immunol. PMID [22407918](https://pubmed.ncbi.nlm.nih.gov/22407918)
 
-- <strong>“Efficient recombinase-mediated cassette exchange at the AAVS1 locus in human embryonic stem cells using baculoviral vectors”</strong>  
+- <strong>Efficient recombinase-mediated cassette exchange at the AAVS1 locus in human embryonic stem cells using baculoviral vectors</strong>
 Ramachandra CJ, <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Kwang TW, Choudhury Y, Bak XY, Yang J, Wang S.  
 2011\. Nucleic Acids Res. PMID [21685448](https://pubmed.ncbi.nlm.nih.gov/21685448)
 
