@@ -80,3 +80,7 @@ Other contributions
 
 - <strong>Novel role of NANOG in smooth muscle cell phenotypic modulation during aortic dissections</strong>  
 <em><strong><span style="background-color: lightgray;">Shahbazi M</span></strong></em>, Fischbein M. 2017. J Thorac Cardiovasc Surg. PMID: [28826598](https://pubmed.ncbi.nlm.nih.gov/28826598) [Editorial]
+
+Code sample
+------
+[Code](https://github.com/mshahbazi1/HearingLoss) associated with PMID: [40932864]
