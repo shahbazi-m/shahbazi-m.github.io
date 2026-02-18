@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ------
-I am a biologist interested in understanding the cellular and molecular mechanisms underlying human diseases and the responses of living organisms to their environment. My expertise primarily lies at the intersection of cell biology and bioinformatics, which I have applied in the context of cancer research, stem cell research, and space biology. During my postdoctoral research at Stanford University, my experience with RNA sequencing and protein array platforms made me realize the importance of investing in the expansion of my bioinformatics skills. Consequently, I accepted a bioinformatics-oriented staff position at the University of Chicago, where I successfully led four research projects. In the coming years, I intend to expand my bioinformatics research and integrate these skills into the design and analysis of wet-lab experiments.
+I am a biologist interested in understanding the cellular and molecular mechanisms underlying human diseases and the responses of living organisms to their environment. My expertise primarily lies at the intersection of cell biology and bioinformatics, which I have applied in the context of cancer, stem cell, and space biology research. During my postdoctoral work at Stanford University, my experience with RNA sequencing and protein array platforms made me realize the importance of investing in the expansion of my bioinformatics skills. Consequently, I accepted a bioinformatics-oriented staff position at the University of Chicago, where I successfully led four research projects. In the coming years, I intend to expand my bioinformatics research and integrate these skills into the design and analysis of wet-lab experiments.
 
 Experience
 ------
@@ -72,7 +72,7 @@ Ramachandra CJ, <em><strong><span style="background-color: lightgray;">Shahbazi 
 
 Other contributions
 ------
-- <strong>OSDR Chats with Dr Shahbazi on Arabidopsis Root Tips</strong>  
+- <strong>OSDR Chats with Dr Shahbazi on Arabidopsis Root Tips (Transcriptional Response of Arabidopsis Root Tips to Spaceflight)</strong>  
 2024\. [[Link](https://youtu.be/Xu91Cgnnc9A) to the interview]
 
 - <strong>Sensory transcriptomics: Transcriptomics as versatile on-site sensors during spaceflight, Moon, and Mars missions</strong>  
