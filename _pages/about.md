@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ------
-I am a biologist specialized in bioinformatics and cell biology, investigating the cellular and molecular mechanisms underlying human conditions and the environmental responses of organisms. I have applied my expertise in the context of genetic epidemiology, stem cell biology, and space biology. After postdoctoral research at Stanford University, using RNA‑seq and protein arrays, I joined the University of Chicago in a bioinformatics role, successfully leading four projects that resulted in peer‑reviewed publications. In the coming years, I intend to expand my bioinformatics research and integrate my computational skills directly into wet‑lab experiments.
+I am a biologist specialised in bioinformatics and cell biology, investigating the underlying mechanisms of human conditions and the environmental responses of organisms. After the postdoctoral research at Stanford University, using RNA‑seq and protein arrays, I joined the University of Chicago in a bioinformatics role, successfully leading four projects that resulted in peer‑reviewed publications. In the coming years, I intend to expand my bioinformatics research and integrate my computational skills directly into wet‑lab experiments.
 
 Experience
 ------
