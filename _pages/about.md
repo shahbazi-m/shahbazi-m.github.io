@@ -85,7 +85,7 @@ Code sample
 ------
 [Code](https://github.com/mshahbazi1/HearingLoss) associated with PMID: 40932864
 
-Personal development
+Professional development
 ------
 <strong>DataCamp:</strong>
 
