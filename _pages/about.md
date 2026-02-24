@@ -87,27 +87,32 @@ Code Sample
 
 Professional Development
 ------
+<ol>
 <strong>DataCamp:</strong>  
 
-<strong>2026</strong>  
+<li><strong>2026</strong></li>  
 Joining Data in SQL  
 
-<strong>2025</strong>  
+<li><strong>2025</strong></li>  
 Intermediate SQL  
 
-<strong>2022</strong>  
+<li><strong>2022</strong></li>  
 Supervised Learning in R: Classification  
 
-<strong>2021</strong>	 
+<li><strong>2021</strong></li>  
 
 Writing Efficient R Code \| Intermediate Python \| Biomedical Image Analysis in Python  \| Experimental Design in R 	\|   Multiple and Logistic Regression in R
 
-<strong>2020</strong>  
+<li><strong>2020</strong></li>  
 Correlation and Regression in R \| Introduction to Shell \| Exploratory Data Analysis in R  
 
-<strong>2019</strong>  
+<li><strong>2019</strong></li>  
+<ol>
 Data Visualization with ggplot2  
 
-<strong>2018</strong>  
-Intermediate R  
+<li><strong>2018</strong></li>
+<ol>
+<li>Intermediate R</li>
+</ol>
+</ol>
   
