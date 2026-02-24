@@ -110,8 +110,8 @@ Professional Development
   <ul>
   Data Visualization with ggplot2  
   </ul>
-  <li><strong>2018</strong></li>
-  <li>Intermediate R</li>
+  <li><strong>2018</strong>  
+    Intermediate R</li>
   </ul>
 </ul>
   
