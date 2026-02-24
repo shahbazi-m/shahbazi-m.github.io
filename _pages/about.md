@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 ------
-I am a biologist specialized in bioinformatics and cell biology, investigating the underlying mechanisms of human conditions and the environmental responses of organisms. After completing my postdoctoral research at Stanford University—where I employed RNA‑seq and protein arrays—I joined the University of Chicago in a bioinformatics role, successfully leading four projects that resulted in peer‑reviewed publications. In the coming years, I plan to expand my bioinformatics research and integrate my computational skills directly into wet‑lab experiments.
+I am a biologist specialized in bioinformatics and cell biology, investigating the underlying mechanisms of human conditions and the environmental responses of organisms. After completing my postdoctoral research at Stanford University—where I employed RNA‑sequencing and protein arrays—I took a bioinformatics staff position at the University of Chicago, successfully leading four projects that resulted in peer‑reviewed publications. In the coming years, I plan to expand my bioinformatics research and integrate my computational skills directly into wet‑lab experiments.
 
 Experience
 ------
@@ -84,3 +84,14 @@ Other contributions
 Code sample
 ------
 [Code](https://github.com/mshahbazi1/HearingLoss) associated with PMID: 40932864
+
+Personal development
+------
+DataCamp courses
+2026	Joining Data in SQL
+2025	Intermediate SQL
+2022	Supervised Learning in R: Classification
+2021	Writing Efficient R Code | Intermediate Python | Biomedical Image Analysis in Python  | Experimental Design in R 	| Multiple and Logistic Regression in R
+2020	Correlation and Regression in R | Introduction to Shell | Exploratory Data Analysis in R
+2019	Data Visualization with ggplot2
+2018	Intermediate R
