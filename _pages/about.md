@@ -99,7 +99,8 @@ Intermediate SQL
 Supervised Learning in R: Classification  
 
 <strong>2021</strong>	 
-Writing Efficient R Code \| Intermediate Python \| Biomedical Image Analysis in Python  \| Experimental Design in R 	\|   Multiple and Logistic Regression in R  
+
+Writing Efficient R Code \| Intermediate Python \| Biomedical Image Analysis in Python  \| Experimental Design in R 	\|   Multiple and Logistic Regression in R
 
 <strong>2020</strong>  
 Correlation and Regression in R \| Introduction to Shell \| Exploratory Data Analysis in R  
@@ -107,5 +108,6 @@ Correlation and Regression in R \| Introduction to Shell \| Exploratory Data Ana
 <strong>2019</strong>  
 Data Visualization with ggplot2  
 
-<strong>2018</strong> 	
-Intermediate R
+<strong>2018</strong>  
+Intermediate R  
+  
