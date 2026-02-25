@@ -105,11 +105,11 @@ Professional Development
   
   <li><strong>2020</strong></li>  
   Correlation and Regression in R \| Introduction to Shell \| Exploratory Data Analysis in R  
+  
   <ul>
-  <li><strong>2019</strong>
+  <li><strong>2019</strong><br>
   Data Visualization with ggplot2</li>
-    
-  </ul>
+
   <li><strong>2018</strong><br>
   Intermediate R</li>
   </ul>
