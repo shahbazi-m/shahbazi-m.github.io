@@ -89,26 +89,13 @@ Professional Development
 ------
 <strong>DataCamp:</strong>
 <ul>
-  <li><strong>2026</strong><br>  
-  Joining Data in SQL</li>  
+  <li><strong>2025 - 2026</strong><br>  
+   Intermediate SQL | Joining Data in SQL</li>  
   
-  <li><strong>2025</strong><br>  
-  Intermediate SQL</li>  
+  <li><strong>2021 - 2022</strong><br>
+  Writing Efficient R Code | Intermediate Python | Biomedical Image Analysis in Python | Experimental Design in R | Multiple and Logistic Regression in R | Supervised Learning in R: Classification</li>
   
-  <li><strong>2022</strong><br>  
-  Supervised Learning in R: Classification</li>  
-  
-  <li><strong>2021</strong><br>
-  Writing Efficient R Code | Intermediate Python | Biomedical Image Analysis in Python  | Experimental Design in R 	|   Multiple and Logistic Regression in R</li>
-  
-  <li><strong>2020</strong><br>
-  Correlation and Regression in R | Introduction to Shell | Exploratory Data Analysis in R</li>
-  
-  <li><strong>2019</strong><br>
-  Data Visualization with ggplot2</li>
-
-  <li><strong>2018</strong><br>
-  Intermediate R</li>
-  
+  <li><strong>2018 - 2020</strong><br>
+  Intermediate R | Data Visualization with ggplot2 | Correlation and Regression in R | Introduction to Shell | Exploratory Data Analysis in R</li>
 </ul>
   
